@@ -45,8 +45,8 @@
 
 | Loading | Error |
 |---------|-------|
-| <img width="282" height="625" alt="image" src="https://github.com/user-attachments/assets/78f1c26f-264d-4d22-a7da-2452fd54c8c9" />
- | ![Error](./screenshots/error.png) |
+| <img width="282" height="625" alt="image" src="https://github.com/user-attachments/assets/78f1c26f-264d-4d22-a7da-2452fd54c8c9" /> | <img width="279" height="626" alt="image" src="https://github.com/user-attachments/assets/ac2abcbf-cdd9-4268-bbb4-065d81f30ea7" />
+ |
 
 ---
 
