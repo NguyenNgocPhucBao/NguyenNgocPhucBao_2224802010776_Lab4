@@ -81,17 +81,6 @@ flutter run
 
 ---
 
-## Cấu trúc thư mục
-lib/
-├── config/       # Cấu hình API
-├── models/       # Các lớp dữ liệu (Weather, Forecast,...)
-├── services/     # Xử lý Logic (API, GPS, Storage)
-├── providers/    # Quản lý trạng thái ứng dụng
-├── screens/      # Các màn hình chính (Home, Search, Settings)
-├── widgets/      # Các thành phần giao diện dùng chung
-└── utils/        # Định dạng ngày tháng, màu sắc, icon
----
-
 ## Known Limitations
 - API miễn phí giới hạn 1,000 calls/ngày.
 - Dữ liệu dự báo có thể chậm cập nhật 10-15 phút so với thực tế.
