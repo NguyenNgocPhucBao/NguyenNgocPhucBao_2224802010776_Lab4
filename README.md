@@ -40,7 +40,8 @@
 
 | Search | Forecast | Settings |
 |--------|----------|----------|
-| ![Search](./screenshots/search.png) | ![Forecast](./screenshots/forecast.png) | ![Settings](./screenshots/settings.png) |
+| <img width="290" height="627" alt="image" src="https://github.com/user-attachments/assets/8aba76d7-a2ea-47f0-bfbc-3c5bb1e5359c" />
+ | ![Forecast](./screenshots/forecast.png) | ![Settings](./screenshots/settings.png) |
 
 | Loading | Error |
 |---------|-------|
