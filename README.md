@@ -35,7 +35,8 @@
 
 | Sunny | Rainy | Night |
 |-------|-------|-------|
-| <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/58024832-2a01-4558-98ed-6b00312cba3c" />
+| <img width="288" height="623" alt="image" src="https://github.com/user-attachments/assets/6fd4b954-dc49-47d9-85db-33153e07202c" />
+
  | ![Rainy](./screenshots/rainy.png) | ![Night](./screenshots/night.png) |
 
 | Search | Forecast | Settings |
