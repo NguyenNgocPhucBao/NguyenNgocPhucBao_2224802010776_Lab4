@@ -54,3 +54,53 @@
 1. Đăng ký tại https://openweathermap.org/users/sign_up
 2. Copy file `.env.example` → đổi tên thành `.env`
 3. Thêm API key vào file `.env`:
+OPENWEATHER_API_KEY=your_api_key_here
+---
+
+## Hướng dẫn cài đặt
+```bash
+# Clone dự án
+git clone https://github.com/NguyenNgocPhucBao/NguyenNgocPhucBao_2224802010776_Lab4.git
+cd weather_app
+
+# Cài đặt thư viện
+flutter pub get
+
+# Chạy ứng dụng
+flutter run
+```
+
+---
+
+## Công nghệ sử dụng
+- **State Management:** `Provider`
+- **Networking:** `http`, `connectivity_plus`
+- **Location:** `geolocator`, `geocoding`
+- **Storage:** `shared_preferences`
+- **Utilities:** `intl`, `flutter_dotenv`, `cached_network_image`
+
+---
+
+## Cấu trúc thư mục
+lib/
+├── config/       # Cấu hình API
+├── models/       # Các lớp dữ liệu (Weather, Forecast,...)
+├── services/     # Xử lý Logic (API, GPS, Storage)
+├── providers/    # Quản lý trạng thái ứng dụng
+├── screens/      # Các màn hình chính (Home, Search, Settings)
+├── widgets/      # Các thành phần giao diện dùng chung
+└── utils/        # Định dạng ngày tháng, màu sắc, icon
+---
+
+## Known Limitations
+- API miễn phí giới hạn 1,000 calls/ngày.
+- Dữ liệu dự báo có thể chậm cập nhật 10-15 phút so với thực tế.
+- Chưa hỗ trợ các vùng không có dữ liệu trạm khí tượng.
+
+---
+
+## Future Improvements
+- Tích hợp bản đồ Radar thời tiết.
+- Thông báo đẩy khi có cảnh báo thiên tai.
+- Hỗ trợ đa ngôn ngữ.
+- Thêm Widget trên màn hình chính điện thoại.
