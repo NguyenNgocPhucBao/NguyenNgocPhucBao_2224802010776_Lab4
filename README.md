@@ -40,8 +40,8 @@
 
 | Search | Forecast | Settings |
 |--------|----------|----------|
-| <img width="290" height="627" alt="image" src="https://github.com/user-attachments/assets/8aba76d7-a2ea-47f0-bfbc-3c5bb1e5359c" />
- | ![Forecast](./screenshots/forecast.png) | ![Settings](./screenshots/settings.png) |
+| <img width="290" height="627" alt="image" src="https://github.com/user-attachments/assets/8aba76d7-a2ea-47f0-bfbc-3c5bb1e5359c" /> | <img width="288" height="633" alt="image" src="https://github.com/user-attachments/assets/92c5b82e-758d-4d4d-8290-974e18a89fec" />
+ | ![Settings](./screenshots/settings.png) |
 
 | Loading | Error |
 |---------|-------|
